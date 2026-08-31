@@ -1,0 +1,6 @@
+{
+  "name": "Repaso Estudios Sociales - Zona de Los Santos",
+  "description": "Aplicación interactiva de repaso para el examen de Estudios Sociales sobre relieve, regiones e historia de Costa Rica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
